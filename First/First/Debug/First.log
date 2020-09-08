@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\pazlevi zalmanovich\Downloads\First (6)\First\First\main.cpp(73,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\pazlevi zalmanovich\Downloads\First (6)\First\First\main.cpp(535,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pazlevi zalmanovich\Downloads\First (6)\First\First\main.cpp(1423,58): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\pazlevi zalmanovich\Downloads\First (6)\First\First\main.cpp(1427,63): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\pazlevi zalmanovich\Downloads\First (6)\First\First\main.cpp(1458,58): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\pazlevi zalmanovich\Downloads\First (6)\First\First\main.cpp(1462,63): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\pazlevi zalmanovich\Downloads\First (6)\First\First\main.cpp(1607,9): warning C4101: 'j': unreferenced local variable
+C:\Users\pazlevi zalmanovich\Downloads\First (6)\First\First\main.cpp(1607,6): warning C4101: 'i': unreferenced local variable
+  First.vcxproj -> C:\Users\pazlevi zalmanovich\Downloads\First (6)\First\Debug\First.exe
